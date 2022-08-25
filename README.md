@@ -1,1 +1,1 @@
-# gthyagi-UW_Cartesian_3D_Models_Sunda_Subduction_Zone_Publication
+# UW_Cartesian_3D_Models_Sunda_Subduction_Zone_Publication
